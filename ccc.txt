@@ -1,4 +1,4 @@
-testaaaaa
+﻿testaaaaa
 
 競合テスト
 
@@ -6,3 +6,5 @@ testaaaaa
 
 ついか！
 追加するよ
+
+ggg
