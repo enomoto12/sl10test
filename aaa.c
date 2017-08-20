@@ -6,5 +6,5 @@ int main()
     int ahotan;
     int bakatin;
 
-    printf("hello, world \n");
+    printf("hello, world　aaaa \n");
 }
