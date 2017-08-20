@@ -1,5 +1,0 @@
-ALT+SHIFT+Tでターミナル起動
-
-gcc -o hogehoge.exe filename.c
-
-hogehoge.exe
